@@ -1,2 +1,2 @@
-[dev]
-command = "npm start"      # Start command for local development
+[build]
+post = "npm start"
