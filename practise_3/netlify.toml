@@ -1,2 +1,6 @@
 [build]
-post = "npm start"
+  command = "npm run build"  # Your build command
+  publish = "dist"           # Directory where your built files are located
+
+[dev]
+  command = "npm start"      # Start command for local development
