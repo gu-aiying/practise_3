@@ -1,5 +1,6 @@
 {
-  "scripts": {
-    "start": "node index.js"
-  }
+  "name": "practise_3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
 }
